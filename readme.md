@@ -1,3 +1,7 @@
+# Ambiente
+
+informar no arquivo env o caminho de onde será apontado o banco de dados
+
 # Migrates
 
 ## scripts
