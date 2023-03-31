@@ -1,3 +1,12 @@
 node_modules
-tmp/app.db
+
+#database
+tmp/*.db
+
+#environment
 .env
+.env.test
+
+#deploy
+dist
+build
