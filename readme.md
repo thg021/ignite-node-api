@@ -53,3 +53,8 @@ Criar um script no package.json. Caso queira alterar o nome o da pasta de saida.
 }
 ```
 Criar um arquivo `eslintignore` para adicionar a pasta build e node_modules. Adiciona no gitignore a pasta build
+
+
+- [render](https://render.com/).
+- [fly.io](https://fly.io/).
+- [railway](https://railway.app/).
